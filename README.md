@@ -2,7 +2,5 @@
 
 
 # BMI Calculator 💪
-
-### Goal of the App
-The objective of the app is to calculate the Body Mass Index(BMI) with basic user interface.
+A flutter app used for calculating BMI
 
